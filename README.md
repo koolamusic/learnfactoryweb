@@ -8,6 +8,8 @@ A brand new website redesign for LearnfactoryHQ
 - https://teachable.com/
 - http://anyonecanlearntocode.com
 - https://www.codingdojo.com/
+- https://flatironschool.com/
+
 
 ### Frameworks 
 - Bootstrap 4 
